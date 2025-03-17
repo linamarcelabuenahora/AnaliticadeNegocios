@@ -1,0 +1,1 @@
+En esta carpeta se encuentran las bases de datos de Excel correspondientes a los retos 1,2,3 y el reto Parcial de la matería Analítica de Negocios, al igual que, el acceso de GoogleColab con el desarrollo de cada uno de ellos.
